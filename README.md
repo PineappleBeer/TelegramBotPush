@@ -2,7 +2,7 @@
  * @Author: zym
  * @Date: 2021-12-09 10:59:35
  * @LastEditors: zym
- * @LastEditTime: 2021-12-09 12:29:33
+ * @LastEditTime: 2021-12-09 13:36:19
  * @Description: 
  * @FilePath: \TgBotPush\README.md
 -->
@@ -93,6 +93,6 @@ HTTP代理一般的代理客户端都会有的，只需要打开本地代理（�
 
 `-x `：指定HTTP代理
 
-`-e `：目标地址
+`-e `：服务端看到的请求来源地址
 
 `-d `：POST请求时的参数
