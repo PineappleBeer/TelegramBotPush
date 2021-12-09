@@ -2,12 +2,12 @@
  * @Author: zym
  * @Date: 2021-12-09 10:59:35
  * @LastEditors: zym
- * @LastEditTime: 2021-12-09 12:22:48
+ * @LastEditTime: 2021-12-09 12:29:33
  * @Description: 
  * @FilePath: \TgBotPush\README.md
 -->
 # Telegram Bot Push
-一个可以轻松向Telegram Bot推送简单消息的shell
+一个可以轻松使用Telegram Bot推送消息的shell
 
 # 介绍
 日常在执行一些定时任务时，会想看到执行结果，但又不想配置或者安装太复杂的软件。
